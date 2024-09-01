@@ -1,7 +1,5 @@
 # In-Memory-Key-Value-Store
 
-# In-Memory Key-Value Store
-
 ## Overview
 
 This project implements an in-memory key-value store with thread-safe operations, designed to manage complex objects where each key maps to an object containing attributes and corresponding values. The store ensures that attribute data types remain consistent once defined, and provides several operations for managing and querying the stored data.
